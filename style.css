@@ -9,7 +9,7 @@
     	vertical-align: 	middle;
     	width: 				250px;
     	height: 			250px;
-    	border-radius: 		50%;
+    	border-radius: 		5%;
    	 	padding: 			0px;
     	margin: 			50px;
 
@@ -23,6 +23,7 @@
     	height: 			150px;
    	 	padding: 			0px;
     	margin: 			50px;
+    	border-radius: 		5%;
     	top:				460px;
     	right: 				1557px;
 
