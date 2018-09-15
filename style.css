@@ -1,0 +1,90 @@
+.background {
+
+		background-size: 1920px 1000px;
+
+}
+
+.avatar {
+
+    	vertical-align: 	middle;
+    	width: 				250px;
+    	height: 			250px;
+    	border-radius: 		50%;
+   	 	padding: 			0px;
+    	margin: 			50px;
+
+}
+
+.flag {
+
+		position: 			absolute;
+		vertical-align: 	left;
+    	width: 				250px;
+    	height: 			150px;
+   	 	padding: 			0px;
+    	margin: 			50px;
+    	top:				460px;
+    	right: 				1557px;
+
+
+}
+
+
+h1		{
+
+		color: 			black;
+		text-align: 	center;
+		font-style:		bold;
+		font-family: 	"Arial";
+
+}
+
+
+h2		{
+		
+		color:			black;
+		text-align: 	left;
+		font-family: 	"Arial";
+
+}
+
+
+p		{
+		
+		color: 			white;
+		text-align: 	right;
+		font-family:	"Arial";
+		font-size:		25px;
+		text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+
+}
+
+p#center		{
+		
+		text-align: 	center;
+		font-family:	"Arial";
+		font-size:		25px;
+		outline: 		2px white;
+
+}
+
+
+img		{
+
+		border-style: 	solid;
+		border-width: 	2px;
+		float: 			left;
+		margin:			5px;
+
+}
+
+
+img#rechts	{
+
+		float: 			right;
+
+}
